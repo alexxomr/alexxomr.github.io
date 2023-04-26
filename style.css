@@ -1,0 +1,15 @@
+/* Estilo para el encabezado h1 */
+h1 {
+    font-size: 36px;
+    text-align: center;
+    color: #333;
+    margin-top: 50px;
+  }
+  
+  /* Estilo para el párrafo */
+  p {
+    font-size: 18px;
+    text-align: center;
+    color: #666;
+    margin-top: 20px;
+  }  
